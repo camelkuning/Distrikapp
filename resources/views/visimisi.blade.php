@@ -6,7 +6,7 @@
             <!-- Page Title -->
             <div class="page-title light-background">
                 <div class="container">
-                    <h1>Services</h1>
+                    <h1>Visi & Misi Daerah</h1>
                     <nav class="breadcrumbs">
                         <ol>
                             <li><a href="/">Beranda</a></li>

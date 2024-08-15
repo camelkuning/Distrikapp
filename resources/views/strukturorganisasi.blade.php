@@ -6,7 +6,7 @@
             <!-- Page Title -->
     <div class="page-title light-background">
         <div class="container">
-          <h1>Team</h1>
+          <h1>Struktur Organisasi</h1>
           <nav class="breadcrumbs">
             <ol>
               <li><a href="/">Beranda</a></li>
