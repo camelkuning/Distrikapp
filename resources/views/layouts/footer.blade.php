@@ -19,9 +19,9 @@
           <div class="widget">
             <h3 class="widget-heading">Link Situs</h3>
             <ul class="list-unstyled float-start me-5">
-              <li><i class="bi bi-dot"></i><a href="/">Beranda</a></li><br>
-              <li><i class="bi bi-dot"></i><a href="/profil">Profil Distrik</a></li><br>
-              <li><i class="bi bi-dot"></i><a href="/berita">Berita</a></li><br>
+              <li><i class="bi bi-dot"></i><a href="/">Beranda</a></li>
+              <li><i class="bi bi-dot"></i><a href="/profil">Profil Distrik</a></li>
+              <li><i class="bi bi-dot"></i><a href="/berita">Berita</a></li>
             </ul>
 
           </div>
