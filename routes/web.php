@@ -19,6 +19,7 @@ Route::get('/profil', [PageController::class, 'profil']);
 Route::get('/berita', [PageController::class, 'berita']);
 Route::get('/galeri', [PageController::class, 'galeri']);
 Route::get('/kontak', [PageController::class, 'kontak']);
+Route::get('/detailberita', [PageController::class, 'detailBerita']);
 
 //dropdown
 Route::get('/visi-misi', [PageController::class, 'visiMisi']);

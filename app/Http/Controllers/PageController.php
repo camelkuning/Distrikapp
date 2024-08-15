@@ -39,4 +39,8 @@ class PageController extends Controller
     public function profilKepalaDaerah() {
         return view('profilkepaladaerah')->with('current_page', 'profil');
     }
+
+    public function detailBerita() {
+        return view('detailberita')->with('current_page', 'profil');
+    }
 }

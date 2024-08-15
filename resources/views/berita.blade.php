@@ -38,7 +38,7 @@
                 </div>
   
                 <h2 class="title">
-                  <a href="#">Kevin Tabrak Pohon</a>
+                  <a href="/detailberita">Kevin Tabrak Pohon</a>
                 </h2>
   
               </article>
