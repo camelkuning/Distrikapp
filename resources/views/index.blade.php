@@ -3,7 +3,17 @@
 @section('content')
     <div class="index-page">
         <main class="main">
-
+    <!-- Page Title -->
+    <div class="page-title light-background">
+      <div class="container">
+        <h1>Beranda</h1>
+        <nav class="breadcrumbs">
+          <ol>
+            <li><a href="/">Beranda</a></li>
+          </ol>
+        </nav>
+      </div>
+    </div><!-- End Page Title -->
             <!-- About Section -->
             <section id="about" class="about section">
         

@@ -16,120 +16,79 @@
                 </div>
             </div><!-- End Page Title -->
 
-            <!-- About 2 Section -->
-            <section id="about-2" class="about-2 section">
-
-                <div class="container">
-                    <div class="content">
-                        <div class="row justify-content-center">
-                            <div class="col-sm-12 col-md-5 col-lg-4 col-xl-4 order-lg-2 offset-xl-1 mb-4">
-                                <div class="img-wrap text-center text-md-left" data-aos="fade-up" data-aos-delay="100">
-                                    <div class="img">
-                                        <img src="https://mcwnews.com/uploads/berita/berita_1718528561.webp"
-                                            alt="circle image" class="img-fluid">
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="offset-md-0 offset-lg-1 col-sm-12 col-md-5 col-lg-5 col-xl-4" data-aos="fade-up">
-                                <div class="px-3">
-                                    <span class="content-subtitle">BUPATI DAN WAKIL BUPATI</span>
-                                    <h2 class="content-title text-start">
-                                        Kabupaten Teluk Bintuni
-                                    </h2>
-                                    <p class="lead">
-                                        Menuju Bintuni yang semakin maju dan modern
-                                    </p>
-                                    <p class="mb-5">
-                                        1. Mewujudkan pembangunan sumberdaya manusia yang berkualitas, terampil dan berdaya
-                                        saing;<br>
-                                        2. Mewujudkan percepatan pembangunan infrastruktur daerah yang terfokus pada wilayah
-                                        terisolir,<br> 3. kurang berkembang, wilayah perbatasan, pesisir dan pulau-pulau
-                                        kecil, wilayah rentan <br>bencana 4. alam, kampung-kampung, kawasan pegunungan dan
-                                        rawa-rawa;<br>
-                                        5. Menghadirkan tata kelola pemerintahan yang akuntabel, bersih dan melayani;<br>
-                                        6. Mewujudkan pembangunan sumber daya alam dan konservasi secara berkelanjutan;<br>
-                                        7. Mewujudkan pembangunan yang terfokus kepada masyarakat, yaitu: Masyarakat miskin
-                                        serta rentan<br> 8. kemiskinan, masyarakat terisolir dan masyarakat penyandang
-                                        problem sosial; dan<br>
-                                        9. Mewujudkan percepatan kapasitas ekonomi daerah berbasis sektor andalan.<br>
-                                    </p>
-                                    {{-- <p>
-                        <a href="#" class="btn-get-started">Get Started</a>
-                      </p> --}}
-                                </div>
-                            </div>
-                        </div>
+            <section id="about" class="about section">
+              <div class="container">
+                <div class="row align-items-center justify-content-between">
+                  <!-- Bagian Penjelasan -->
+                  <div class="col-lg-4 order-lg-1" data-aos="fade-up">
+                    <div class="info-box p-3 border rounded bg-light shadow-sm">
+                      <h4>Distrik Bintuni Timur</h4>
+                      <hr>
+                      <p><strong>Batas Distrik:</strong></p>
+                      <p>Utara: -</p>
+                      <p>Timur: -</p>
+                      <p>Selatan: -</p>
+                      <p>Barat: -</p>
+                      <hr>
+                      <p><strong>Luas Wilayah:</strong> -</p>
+                      <p><strong>Jumlah Penduduk:</strong> -</p>
+                      <p><strong>Kode Kemendagri:</strong> -</p>
                     </div>
-                </div>
-            </section><!-- /About 2 Section -->
-
-            <!-- Services Section -->
-            <section id="services" class="services section light-background">
-
-                <div class="container">
-                    <div class="row gy-4 justify-content-center">
-
-                        <div class="col-lg-3">
-                            <div class="services-item" data-aos="fade-up">
-                                <div class="services-icon">
-                                    <i class="bi bi-bullseye"></i>
-                                </div>
-                                <div>
-                                    <h3>Visi</h3>
-                                    <p>“Terwujudnya Kabupaten Teluk Bintuni menuju masyarakat yang maju, produktif dan
-                                        berdaya saing.” </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-3">
-                            <div class="services-item" data-aos="fade-up" data-aos-delay="100">
-                                <div class="services-icon">
-                                    <i class="bi bi-command"></i>
-                                </div>
-                                <div>
-                                    <h3>Harapan</h3>
-                                    <p>Kevin tai</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-3">
-                            <div class="services-item" data-aos="fade-up" data-aos-delay="200">
-                                <div class="services-icon">
-                                    <i class="bi bi-bar-chart"></i>
-                                </div>
-                                <div>
-                                    <h3>MISI</h3>
-                                    {{-- <p>1. Mewujudkan pembangunan sumberdaya manusia yang berkualitas, terampil dan berdaya saing;
-                        2. Mewujudkan percepatan pembangunan infrastruktur daerah yang terfokus pada wilayah terisolir, 3. kurang berkembang, wilayah perbatasan, pesisir dan pulau-pulau kecil, wilayah rentan bencana 4. alam, kampung-kampung, kawasan pegunungan dan rawa-rawa;
-                        5. Menghadirkan tata kelola pemerintahan yang akuntabel, bersih dan melayani;
-                        6. Mewujudkan pembangunan sumber daya alam dan konservasi secara berkelanjutan;
-                        7. Mewujudkan pembangunan yang terfokus kepada masyarakat, yaitu: Masyarakat miskin serta rentan 8. kemiskinan, masyarakat terisolir dan masyarakat penyandang problem sosial; dan
-                        9. Mewujudkan percepatan kapasitas ekonomi daerah berbasis sektor andalan. </p> --}}
-                                </div>
-                            </div>
-                        </div>
-
+                  </div>
+            
+                  <!-- Bagian Peta -->
+                  <div class="col-lg-7 mb-5 mb-lg-0 order-lg-2" data-aos="fade-up" data-aos-delay="400">
+                    <div class="swiper init-swiper">
+                      <script type="application/json" class="swiper-config">
+                        {
+                          "loop": true,
+                          "speed": 600,
+                          "autoplay": {
+                            "delay": 5000
+                          },
+                          "slidesPerView": "auto",
+                          "pagination": {
+                            "el": ".swiper-pagination",
+                            "type": "bullets",
+                            "clickable": true
+                          },
+                          "breakpoints": {
+                            "320": {
+                              "slidesPerView": 1,
+                              "spaceBetween": 40
+                            },
+                            "1200": {
+                              "slidesPerView": 1,
+                              "spaceBetween": 1
+                            }
+                          }
+                        }
+                      </script>
+            
+                      <div class="img">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255169.82378007457!2d133.41295239792927!3d-2.142766092706149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2d4e65e9f483d6e3%3A0x945cb0d778b5a8ad!2sBintuni%2C%20Teluk%20Bintuni%20Regency%2C%20West%20Papua!5e0!3m2!1sen!2sid!4v1723787500608!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                      </div>
+            
                     </div>
+                  </div>
                 </div>
+              </div>
+            </section><!-- /About Section -->
+            
+
+            
             </section><!-- /Services Section -->
 
-            <!-- Stats Section -->
+            {{-- <!-- Stats Section -->
             <section id="stats" class="stats section light-background">
-
                 <div class="container">
-
                     <div class="row gy-4 justify-content-center">
-
                         <div class="col-lg-5">
                             <div class="images-overlap">
-                                <img src="https://m.media-amazon.com/images/S/pv-target-images/a0cb3885c44b8305ac89ba7ce98e8cd978bf3ebba6a151a00dbf2d528e98bf3b.jpg"
+                                <img src="https://papuabarat.bpk.go.id/wp-content/uploads/2009/03/adminsitrasi-teluk-bintuni.jpg"
                                     alt="student" class="img-fluid img-1" data-aos="fade-up">
                             </div>
                         </div>
-
                         <div class="col-lg-4 ps-lg-5">
                             <span class="content-subtitle">Pertumbuhan Jumlah Penduduk</span>
                             <h2 class="content-title">JUMLAH PENDUDUK</h2>
@@ -176,7 +135,7 @@
                     </div>
 
                 </div>
-            </section><!-- /Stats Section -->
+            </section><!-- /Stats Section --> --}}
 
             {{-- <!-- Team Section -->
           <section id="team" class="team section">

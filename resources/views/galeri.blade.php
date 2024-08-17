@@ -37,8 +37,8 @@
                 <div class="portfolio-info">
                   <h4>Vinsmoke Sanji</h4>
                   <p>Juru Masak Kapten</p>
-                  <a href="https://i.pinimg.com/564x/a9/40/07/a94007af84c34f561e0893ed3f85d7d0.jpg" title="App 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <a href="https://i.pinimg.com/564x/a9/40/07/a94007af84c34f561e0893ed3f85d7d0.jpg"  data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+
                 </div>
               </div><!-- End Portfolio Item -->
   
@@ -47,8 +47,7 @@
                 <div class="portfolio-info">
                   <h4>Monkey D Luffy</h4>
                   <p>Gear 5</p>
-                  <a href="https://i.pinimg.com/564x/79/5e/f7/795ef7b4c7e6588309713d64d877ce9b.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <a href="https://i.pinimg.com/564x/79/5e/f7/795ef7b4c7e6588309713d64d877ce9b.jpg"  data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div><!-- End Portfolio Item -->
   
@@ -57,8 +56,7 @@
                 <div class="portfolio-info">
                   <h4>Roronoa Zoro</h4>
                   <p>Tangan Kanan Kapten</p>
-                  <a href="https://i.pinimg.com/564x/99/76/e6/9976e678f02bd7fef3cdb9d4cb7f0551.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <a href="https://i.pinimg.com/564x/99/76/e6/9976e678f02bd7fef3cdb9d4cb7f0551.jpg"  data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div><!-- End Portfolio Item -->
   
@@ -67,8 +65,7 @@
                 <div class="portfolio-info">
                   <h4>Vinsmoke Sanji</h4>
                   <p>Juru Masak Kapten</p>
-                  <a href="https://i.pinimg.com/736x/67/01/70/670170160518d2f49805b3e4fa0bc2b4.jpg" title="App 2" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <a href="https://i.pinimg.com/736x/67/01/70/670170160518d2f49805b3e4fa0bc2b4.jpg"  data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div><!-- End Portfolio Item -->
   
@@ -77,8 +74,7 @@
                 <div class="portfolio-info">
                   <h4>Monkey D Luffy</h4>
                   <p>Kapten</p>
-                  <a href="https://i.pinimg.com/564x/d3/f4/aa/d3f4aab08383c3de8e5e9d053f7a7516.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <a href="https://i.pinimg.com/564x/d3/f4/aa/d3f4aab08383c3de8e5e9d053f7a7516.jpg"  data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div><!-- End Portfolio Item -->
   
@@ -87,8 +83,7 @@
                 <div class="portfolio-info">
                   <h4>Roronoa Zoro</h4>
                   <p>Tangan Kanan Kapten</p>
-                  <a href="https://i.pinimg.com/564x/ae/4f/8e/ae4f8ee194ce20ffc06d6a507a6f5437.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <a href="https://i.pinimg.com/564x/ae/4f/8e/ae4f8ee194ce20ffc06d6a507a6f5437.jpg"  data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div><!-- End Portfolio Item -->
   

@@ -96,7 +96,7 @@
   
       </section><!-- /Blog Posts 2 Section -->
   
-      <!-- Blog Pagination Section -->
+      {{-- <!-- Blog Pagination Section -->
       <section id="blog-pagination" class="blog-pagination section">
   
         <div class="container">
@@ -114,7 +114,7 @@
           </div>
         </div>
   
-      </section><!-- /Blog Pagination Section -->
+      </section><!-- /Blog Pagination Section --> --}}
         </main>
     </div>
 @endsection

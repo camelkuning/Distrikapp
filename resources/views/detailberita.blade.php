@@ -121,14 +121,14 @@
                 </div>
               </div><!--/Blog Author Widget -->
   
-              {{-- <!-- Recent Posts Widget -->
+              <!-- Recent Posts Widget -->
               <div class="recent-posts-widget widget-item">
   
-                <h3 class="widget-title">Recent Posts</h3>
+                <h3 class="widget-title">Berita Lainnya</h3>
   
                 <div class="post-item">
-                  <h4><a href="blog-details.html">Nihil blanditiis at in nihil autem</a></h4>
-                  <time datetime="2020-01-01">Jan 1, 2020</time>
+                  <h4><a href="blog-details.html">Kevin Bawa Lari Orang Pu Anak</a></h4>
+                  <time datetime="2020-01-01"> 14 Agustus, 2024</time>
                 </div><!-- End recent post item-->
   
                 <div class="post-item">
@@ -152,8 +152,8 @@
                 </div><!-- End recent post item-->
   
               </div><!--/Recent Posts Widget -->
-   --}}
-              {{-- <!-- Tags Widget -->
+  
+              <!-- Tags Widget -->
               <div class="tags-widget widget-item">
   
                 <h3 class="widget-title">Tags</h3>
@@ -171,7 +171,7 @@
                   <li><a href="#">Marketing</a></li>
                 </ul>
   
-              </div><!--/Tags Widget --> --}}
+              </div><!--/Tags Widget -->
   
             </div>
   

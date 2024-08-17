@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ContactController;
 use App\Http\Controllers\PageController;
 use Illuminate\Support\Facades\Route;
 
@@ -26,4 +27,7 @@ Route::get('/visi-misi', [PageController::class, 'visiMisi']);
 Route::get('/struktur-organisasi', [PageController::class, 'strukturOrganisasi']);
 Route::get('/profil-kepala-daerah', [PageController::class, 'profilKepalaDaerah']);
 
-Route::post('/sendkontakemail', [PageController::class, 'sendkontakemail']);
+// Route::post('/sendkontakemail', [PageController::class, 'sendkontakemail']);
+
+//contact
+Route::post('/contact', [ContactController::class, 'send'])->name('contact');
