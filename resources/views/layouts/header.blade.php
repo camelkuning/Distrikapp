@@ -10,7 +10,7 @@
       <nav id="navmenu" class="navmenu">
         
         <ul>
-          <li><a href="/" class="{{ $current_page == 'index' ? 'active' : '' }}">Beranda</a></li>
+          <li><a href="/" class="{{ $current_page == 'index' ? 'active' : '' }}" >Beranda</a></li>
           <li><a href="/berita" class="{{ $current_page == 'berita' ? 'active' : '' }}">Berita</a></li>
           <li><a href="/galeri" class="{{ $current_page == 'galeri' ? 'active' : '' }}">Galeri</a></li>
           <li class="dropdown">

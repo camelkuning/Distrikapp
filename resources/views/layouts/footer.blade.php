@@ -12,41 +12,43 @@
             </p>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3 ps-lg-5 mb-3 mb-md-0">
 
-        </div>
-        <div class="col-md-6 col-lg-3 pl-lg-5">
+        <div class="col-md-6 col-lg-3 ps-lg-5 mb-3 mb-md-0">
           <div class="widget">
             <h3 class="widget-heading">Link Situs</h3>
             <ul class="list-unstyled float-start me-5">
               <li><i class="bi bi-dot"></i><a href="/">Beranda</a></li>
-              <li><i class="bi bi-dot"></i><a href="/profil">Profil Distrik</a></li>
               <li><i class="bi bi-dot"></i><a href="/berita">Berita</a></li>
+              <li><i class="bi bi-dot"></i><a href="/galeri">Galeri</a></li>
+              <li><i class="bi bi-dot"></i><a href="/kontak">Hubungi Kami</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-md-6 col-lg-3 pl-lg-5">
+          <div class="widget">
+            <h3 class="widget-heading">Profil</h3>
+            <ul class="list-unstyled float-start me-5">
+              <li><i class="bi bi-dot"></i><a href="/struktur-organisasi">Struktur Organisasi</a></li>
+              <li><i class="bi bi-dot"></i><a href="/profil">Profil Distrik</a></li>
+              <li><i class="bi bi-dot"></i><a href="/visimisi">Visi & Misi</a></li>
+              <li><i class="bi bi-dot"></i><a href="/profil-kepala-daerah">Profil Kepala Daerah</a></li>
             </ul>
 
           </div>
         </div>
         <div class="col-md-6 col-lg-3 pl-lg-5">
-          {{-- <div class="widget">
-            <h3 class="widget-heading">Connect</h3>
+          <div class="widget">
+            <h3 class="widget-heading">Temukan Kami Juga Di :</h3>
             <ul class="list-unstyled social-icons light mb-3">
               <li>
                 <a href="#"><span class="bi bi-facebook"></span></a>
               </li>
               <li>
-                <a href="#"><span class="bi bi-twitter-x"></span></a>
-              </li>
-              <li>
-                <a href="#"><span class="bi bi-linkedin"></span></a>
-              </li>
-              <li>
-                <a href="#"><span class="bi bi-google"></span></a>
-              </li>
-              <li>
-                <a href="#"><span class="bi bi-google-play"></span></a>
+                <a href="https://wa.me/085294986851"><span class="bi bi-whatsapp"></span></a>
               </li>
             </ul>
-          </div> --}}
+          </div>
 
           {{-- <div class="widget">
             <div class="footer-subscribe">
@@ -77,7 +79,7 @@
           <!-- You can delete the links only if you've purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-          Hallo || <a href="">Gamaliel Lexi Tulus</a>
+          Hallo || <a href="https://www.instagram.com/__lex.tls_/">Gamaliel Lexi Tulus</a>
         </div>
       </div>
     </div>
