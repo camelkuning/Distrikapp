@@ -12,8 +12,9 @@ class Beranda extends Model
     protected $table = 'beranda';
 
     protected $fillable = [
+        'id',
         'judul_beranda',
         'deskripsi_beranda',
     ];
-    
+
 }
