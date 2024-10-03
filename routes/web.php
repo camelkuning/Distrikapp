@@ -36,12 +36,3 @@ Route::get('/profil-kepala-daerah', [PageController::class, 'profilKepalaDaerah'
 Route::post('/contact', [ContactController::class, 'send'])->name('contact');
 
 
-// Admin
-Route::get('/admins', [DashboardController::class, 'index'])->name('admin.dashboard');
-
-// Beranda
-Route::get('/admins/beranda', [BerandaController::class, 'viewberanda'])->name('admin.viewberanda');
-Route::post('/admins/beranda/upload', [BerandaController::class, 'uploadberanda'])->name('admin.uploadberanda');
-
-Route::fallback([ErrorController::class, 'error_404'])->name('error.404');
-
