@@ -61,6 +61,8 @@
   <script src="https://www.google.com/recaptcha/api.js?render=Your_reCAPTCHA_site_key"></script>
   <!-- Main JS File -->
   <script src="{{ asset('assets/js/main.js') }}"></script>
+
+  @yield('js-addons')
 </body>
 
 </html>
