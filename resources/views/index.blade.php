@@ -3,17 +3,6 @@
 @section('content')
     <div class="index-page">
         <main class="main">
-    <!-- Page Title -->
-    <div class="page-title light-background">
-      <div class="container">
-        <h1>Beranda</h1>
-        <nav class="breadcrumbs">
-          <ol>
-            <li><a href="/">Beranda</a></li>
-          </ol>
-        </nav>
-      </div>
-    </div><!-- End Page Title -->
             <!-- About Section -->
             <section id="about" class="about section">
         
@@ -46,7 +35,7 @@
                           }
                         }
                       </script>
-                      <div class="swiper-wrapper">
+                      <div class="swiper-wrapper ">
                         <div class="swiper-slide">
                           <img src="https://gpriority.co.id/wp-content/uploads/2023/09/Tempat-Wisata-Teluk-Bintuni.jpg" alt="Image" class="img-fluid">
                         </div>
