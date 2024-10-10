@@ -29,11 +29,7 @@
   <link href="assets/css/main.css" rel="stylesheet">
 
   <!-- =======================================================
-  * Template Name: Active
-  * Template URL: https://bootstrapmade.com/active-bootstrap-website-template/
-  * Updated: Aug 07 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
+  * Lexi & Wayan
   ======================================================== -->
 </head>
 
@@ -64,7 +60,9 @@
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="https://www.google.com/recaptcha/api.js?render=Your_reCAPTCHA_site_key"></script>
   <!-- Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="{{ asset('assets/js/main.js') }}"></script>
+
+  @yield('js-addons')
 </body>
 
 </html>
